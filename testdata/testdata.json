@@ -1,0 +1,16 @@
+{
+    "test1":{
+        "departlocation": "New Delhi",
+        "goingtolocation":"New York",
+        "depart_date":"15/11/2021",
+        "return_date":"17/11/2021",
+        "stops":"1 Stop"
+    },
+    "test2":{
+        "departlocation": "BOM",
+        "goingtolocation":"New York",
+        "depart_date":"15/11/2021",
+        "return_date":"17/11/2021",
+        "stops":"2 Stop"
+    }
+}
