@@ -63,3 +63,6 @@ class Utils:
         
     def feature_sdet_1(self):
         print("Feature created by sdet 1 to merge with main branch")
+        
+    def merge_conflict(self):
+        pass
