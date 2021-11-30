@@ -61,5 +61,4 @@ class Utils:
         #print(data_list)
         return data_list    
         
-    def feature_sdet_1(self):
-        print("Feature created by sdet 1 to merge with main branch")
+    
